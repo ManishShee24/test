@@ -1,0 +1,6 @@
+{{#user}}
+Name: Manish Shee
+Languages: C/C++, Python, SQL
+Skills: DSA, Django, Data Science, Machine Learning, OOPS, DBMS, Python GUI
+Email: manishshee2000@gmail.com
+{{/user}}
